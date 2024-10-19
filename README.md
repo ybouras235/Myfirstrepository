@@ -1,3 +1,0 @@
-# Myfirstrepository
-
-Hello world
